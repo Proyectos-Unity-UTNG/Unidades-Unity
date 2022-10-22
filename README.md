@@ -1,6 +1,6 @@
 # Unidades-Unity
 <p align="center">
-    <img src="https://unity.com/sites/default/files/styles/16_9_s/public/2022-04/Enemies_web1.jpg?itok=2KgUcCRS" alt="Logo" width=1200 height=300>
+    <img src="https://unity.com/sites/default/files/styles/16_9_s/public/2022-04/Enemies_web1.jpg?itok=2KgUcCRS" alt="Logo" width=1200 height=600>
 </p>
 
 ## Contenido
