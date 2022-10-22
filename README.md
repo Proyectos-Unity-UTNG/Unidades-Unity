@@ -60,7 +60,7 @@
 
 [Unidad 3 - Challenge 3 Balloons, Bombs, & Booleans](https://github.com/Proyectos-Unity-UTNG/Unidades-Unity/tree/main/Unity_Unidad3/Reto3)
 
-[Unidad 3 - Lab 3 Player controller]()
+[Unidad 3 - Lab 3 Player controller](https://github.com/Proyectos-Unity-UTNG/Unidades-Unity/tree/main/Unity_Unidad3/Laboratorio3)
 
 [Unidad 3 - Video Challenge 3 Balloons, Bombs, & Booleans](https://drive.google.com/drive/folders/1RC4qXVcR2oDwDT7zaNIxHjz_dbPfw4vo?usp=sharing)
 
