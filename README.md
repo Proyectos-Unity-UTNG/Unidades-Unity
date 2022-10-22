@@ -1,6 +1,6 @@
 # Unidades-Unity
 <p align="center">
-    <img src="https://unity.com/sites/default/files/styles/16_9_s/public/2022-04/Enemies_web1.jpg?itok=2KgUcCRS" alt="Logo" width=1200 height=450>
+    <img src="https://unity.com/sites/default/files/styles/16_9_s/public/2022-04/Enemies_web1.jpg?itok=2KgUcCRS" alt="Logo" width=1200 height=500>
 </p>
 
 ## Contenido
@@ -26,11 +26,11 @@
 
 ![Unidad 1](https://connect-prd-cdn.unity.com/20190515/learn/images/4d417a32-aba0-47e5-a57b-c56ea9548013_P1_1080pBanner.png.400x0x1.webp "Unidad 1")
 
-[Unidad 1 - Player control]()
+[Unidad 1 - Player control](https://github.com/Proyectos-Unity-UTNG/Unidades-Unity/tree/main/Unity_Unidad1/Leccion1)
 
-[Unidad 1 - Challenge 1 Plane programming]()
+[Unidad 1 - Challenge 1 Plane programming](https://github.com/Proyectos-Unity-UTNG/Unidades-Unity/tree/main/Unity_Unidad1/Reto1)
 
-[Unidad 1 - Lab 1 Project Design Component]()
+[Unidad 1 - Lab 1 Project Design Component](https://github.com/Proyectos-Unity-UTNG/Unidades-Unity/tree/main/Unity_Unidad1/Laboratorio%201)
 
 [Unidad 1 - Video Challenge 1 Plane programming](https://drive.google.com/drive/folders/1RC4qXVcR2oDwDT7zaNIxHjz_dbPfw4vo?usp=sharing)
 
@@ -41,11 +41,11 @@
 
 ![Unidad 2](https://connect-prd-cdn.unity.com/20190516/learn/images/bf8d3473-c257-4b77-baec-74c0e35d554a_p21080pBanner.png.400x0x1.webp "Unidad 2")
 
-[Unidad 2 - Basic Gameplay]()
+[Unidad 2 - Basic Gameplay](https://github.com/Proyectos-Unity-UTNG/Unidades-Unity/tree/main/Unity_Unidad2/Leccion2)
 
-[Unidad 2 - Challenge 2 Play Fetch]()
+[Unidad 2 - Challenge 2 Play Fetch](https://github.com/Proyectos-Unity-UTNG/Unidades-Unity/tree/main/Unity_Unidad2/Reto2)
 
-[Unidad 2 - Lab 2 New Project with Primitives]()
+[Unidad 2 - Lab 2 New Project with Primitives](https://github.com/Proyectos-Unity-UTNG/Unidades-Unity/tree/main/Unity_Unidad2/Laboratorio%202)
 
 [Unidad 2 - Video Challenge 2 Play Fetch](https://drive.google.com/drive/folders/1RC4qXVcR2oDwDT7zaNIxHjz_dbPfw4vo?usp=sharing)
 
@@ -56,9 +56,9 @@
 
 ![Unidad 3](https://connect-prd-cdn.unity.com/20190606/learn/images/998f1459-9767-49af-a033-b1e52a38bc66_P31080pBanner__1_.png.1400x0x1.webp "Unidad 3")
 
-[Unidad 3 - Sound and effects]()
+[Unidad 3 - Sound and effects](https://github.com/Proyectos-Unity-UTNG/Unidades-Unity/tree/main/Unity_Unidad3/Leccion3)
 
-[Unidad 3 - Challenge 3 Balloons, Bombs, & Booleans]()
+[Unidad 3 - Challenge 3 Balloons, Bombs, & Booleans](https://github.com/Proyectos-Unity-UTNG/Unidades-Unity/tree/main/Unity_Unidad3/Reto3)
 
 [Unidad 3 - Lab 3 Player controller]()
 
