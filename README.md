@@ -1,6 +1,6 @@
 # Unidades-Unity
 <p align="center">
-    <img src="https://unity.com/sites/default/files/styles/16_9_s/public/2022-04/Enemies_web1.jpg?itok=2KgUcCRS" alt="Logo" width=1200 height=600>
+    <img src="https://unity.com/sites/default/files/styles/16_9_s/public/2022-04/Enemies_web1.jpg?itok=2KgUcCRS" alt="Logo" width=1200 height=450>
 </p>
 
 ## Contenido
@@ -77,8 +77,7 @@
 
 [Unidad 4 - Lab 4 Basic Gameplay]()
 
-[Unidad 4 - Video Challenge 4 Soccer Scripting]
-(https://drive.google.com/drive/folders/1RC4qXVcR2oDwDT7zaNIxHjz_dbPfw4vo?usp=sharing)
+[Unidad 4 - Video Challenge 4 Soccer Scripting](https://drive.google.com/drive/folders/1RC4qXVcR2oDwDT7zaNIxHjz_dbPfw4vo?usp=sharing)
 
 [Unidad 4 - Quiz 4](https://drive.google.com/drive/folders/1NywNKu2an1nBdPFrQ7wiXedkfzTrQEM1?usp=sharing)
 
