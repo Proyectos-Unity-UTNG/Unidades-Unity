@@ -24,7 +24,7 @@
 
 **Unidad 1**
 
-![Unidad 1](https://connect-prd-cdn.unity.com/20190515/learn/images/4d417a32-aba0-47e5-a57b-c56ea9548013_P1_1080pBanner.png.400x0x1.webp "Unidad 1")
+![Unidad 1](https://connect-prd-cdn.unity.com/20190515/learn/images/4d417a32-aba0-47e5-a57b-c56ea9548013_P1_1080pBanner.png.1400x0x1.webp "Unidad 1")
 
 [Unidad 1 - Player control](https://github.com/Proyectos-Unity-UTNG/Unidades-Unity/tree/main/Unity_Unidad1/Leccion1)
 
@@ -39,7 +39,7 @@
 
 **Unidad 2**
 
-![Unidad 2](https://connect-prd-cdn.unity.com/20190516/learn/images/bf8d3473-c257-4b77-baec-74c0e35d554a_p21080pBanner.png.400x0x1.webp "Unidad 2")
+![Unidad 2](https://connect-prd-cdn.unity.com/20190516/learn/images/bf8d3473-c257-4b77-baec-74c0e35d554a_p21080pBanner.png.1400x0x1.webp "Unidad 2")
 
 [Unidad 2 - Basic Gameplay](https://github.com/Proyectos-Unity-UTNG/Unidades-Unity/tree/main/Unity_Unidad2/Leccion2)
 
@@ -84,7 +84,7 @@
 
 **Unidad 5**
 
-![Unidad 5](https://connect-prd-cdn.unity.com/20190606/learn/images/08de1b60-efa5-4f1d-8e33-50979f62e589_p51080pBanner__1_.png.400x0x1.webp "Unidad 3")
+![Unidad 5](https://connect-prd-cdn.unity.com/20190606/learn/images/08de1b60-efa5-4f1d-8e33-50979f62e589_p51080pBanner__1_.png.1400x0x1.webp "Unidad 3")
 
 [Unidad 5 - User Interface]()
 
